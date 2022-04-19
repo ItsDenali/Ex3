@@ -1,1 +1,20 @@
-//The terminal script didn't respond right so i just made the json file but I don't know what's supposed to go here
+{
+  "name": "ex3",
+  "version": "1.0.0",
+  "description": "\"The Industrial Revolution and its consequences have been a disaster for the human race.\" - Theodore J Kaczynski",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ItsDenali/Ex3.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ItsDenali/Ex3/issues"
+  },
+  "homepage": "https://github.com/ItsDenali/Ex3#readme"
+}
